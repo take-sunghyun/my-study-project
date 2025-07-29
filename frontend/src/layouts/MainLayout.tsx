@@ -5,7 +5,7 @@ export default function MainLayout() {
     <div>
       <header>
         <nav>
-          <Link to="/">Home</Link> | <Link to="/about">About</Link>
+          <Link to="/">여기서</Link> | <Link to="/about">수정 하면</Link>
         </nav>
       </header>
       <main>
